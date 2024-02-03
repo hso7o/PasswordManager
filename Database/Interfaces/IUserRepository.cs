@@ -1,4 +1,4 @@
-﻿using Database.Entities;
+﻿using Database.Core.Entities;
 
 namespace Database.Interfaces
 {

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 
 namespace Utilities
 {
-    public class PasswordConstants
+    public static class PasswordConstants
     {
         public const string LOWERCASE_CHARACTERS = "abcdefghijklmnopqrstuvwxyz";
         public const string UPPERCASE_CHARACTERS = "ABCDEFGHIJKLMNOPQRSTUVWXYZ";
